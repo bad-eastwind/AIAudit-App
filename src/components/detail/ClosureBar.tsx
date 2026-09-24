@@ -120,7 +120,7 @@ export function ClosureBar({ closure, modelName }: ClosureBarProps) {
         <div className="flex items-center justify-between gap-3">
           <div>
             <CardTitle className="text-sm font-medium text-zinc-400 uppercase tracking-wider">
-              N5: Closure - Is the audit itself steady?
+              N4: Closure - Is the audit itself steady?
             </CardTitle>
             <p className="text-xs text-zinc-500 font-mono mt-0.5">
               Nudge the input slightly and watch how far each audit step moves
