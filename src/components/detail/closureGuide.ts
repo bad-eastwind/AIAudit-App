@@ -1,4 +1,4 @@
-// Plain-language reading of the N4 Closure stages for the selected model.
+// Plain-language reading of the N5 Closure stages for the selected model.
 import type { Level } from './metricGuide'
 
 const isNum = (v: unknown): v is number => typeof v === 'number' && isFinite(v)

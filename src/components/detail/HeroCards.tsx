@@ -226,7 +226,7 @@ export function HeroCards({ report }: HeroCardsProps) {
             <Card className="h-full">
               <CardHeader className="pb-2">
                 <CardTitle className="text-sm font-medium text-zinc-400 uppercase tracking-wider">
-                  N4: Closure L_chain
+                  N5: Closure L_chain
                 </CardTitle>
                 <p className="text-xs text-zinc-500 font-mono mt-1">Audit Pipeline Lipschitz</p>
               </CardHeader>
