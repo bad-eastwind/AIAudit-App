@@ -1,6 +1,6 @@
 # AIAudit App
 
-Interactive dashboard for the MedAudit / AIAudit research work. It shows, per model, the four audit results (FAC, ACS, UDAG, Closure), the trust score, the faithfulness test and the proof suite, each with a plain-language explanation of what the scores mean.
+Interactive dashboard for the AIAudit research work. It shows, per model, the four audit results (FAC, ACS, UDAG, Closure), the trust score, the faithfulness test and the proof suite, each with a plain-language explanation of what the scores mean.
 
 Live site: https://bad-eastwind.github.io/AIAudit-App/
 

@@ -24,7 +24,7 @@ export function Navbar({ activeModel, setActiveModel, setView }: NavbarProps) {
           onClick={() => setView('detail')}
           className="font-mono font-bold text-xl tracking-tight bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
         >
-          medaudit
+          AIAudit
         </button>
 
         {/* Center: model selector */}
