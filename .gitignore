@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-node/
+*.log
+.DS_Store
+.env
+.env.*
+# Old local API server, no longer used by the site
+backend/
+*.tsbuildinfo
